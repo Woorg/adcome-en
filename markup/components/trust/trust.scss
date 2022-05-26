@@ -65,7 +65,8 @@
         @include mq($medium) {
             margin-right: -10px;
             margin-left: -10px;
-            justify-content: space-between;
+            // justify-content: space-between;
+            justify-content: center;
         }
 
     }
